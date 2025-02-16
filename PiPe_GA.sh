@@ -32,8 +32,7 @@ RESET="\033[0m"
 printf "${GREEN}"
 printf "🚀 THIS SCRIPT IS PROUDLY CREATED BY **GA CRYPTO**! 🚀\n"
 printf "Stay connected for updates:\n"
-printf "   • Telegram: https://t.me/GaCryptOfficial\n"
-printf "   • X (formerly Twitter): https://x.com/GACryptoO\n"
+printf "   • Telegram: https://t.me/airdropbombnode\n"
 printf "${RESET}"
 
 # Check if the "pipega" screen session exists
